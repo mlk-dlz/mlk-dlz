@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mlk-dlz
+- 👀 I’m interested in ... ecommerce
+- 🌱 I’m currently learning ... Python
